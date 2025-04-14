@@ -1,6 +1,6 @@
-https://github.com/Cstar354/lab10-CS-
-Partner 1: Camari 
-Partner 2: William
+# https://github.com/Cstar354/lab10-CS-
+# Partner 1: Camari 
+# Partner 2: William
 import unittest
 from calculator import *
 git add calculator.py    
