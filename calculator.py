@@ -1,11 +1,11 @@
 # https://github.com/Cstar354/lab10-CS-
 # Partner 1: Camari
 # Partner 2: William
-git clone https://github.com/Cstar354/lab10-CS-
-cd https://github.com/Cstar354/lab10-CS-
-git add calculator.py
-git committ - m "modified calculator p1"
-git push
+# git clone https://github.com/Cstar354/lab10-CS-
+# cd https://github.com/Cstar354/lab10-CS-
+# git add calculator.py
+# git committ - m "modified calculator p1"
+# git push
 
 
 import math
