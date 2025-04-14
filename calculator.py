@@ -1,3 +1,4 @@
+https://github.com/Cstar354/lab10-CS-
 git clone https://github.com/Cstar354/lab10-CS-
 cd https://github.com/Cstar354/lab10-CS-
 git add calculator.py
