@@ -1,6 +1,6 @@
-https://github.com/Cstar354/lab10-CS-
-Partner 1: Camari
-Partner 2: William
+# https://github.com/Cstar354/lab10-CS-
+# Partner 1: Camari
+# Partner 2: William
 git clone https://github.com/Cstar354/lab10-CS-
 cd https://github.com/Cstar354/lab10-CS-
 git add calculator.py
