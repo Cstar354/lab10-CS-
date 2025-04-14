@@ -11,7 +11,7 @@
 import math
 def square_root(a):
     try: 
-        a < 0:
+        if a < 0:
             raise ValueError
         return math.sqrt(a)
     except ValueError as e:
