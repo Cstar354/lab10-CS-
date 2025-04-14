@@ -1,7 +1,7 @@
-# https://github.com/Cstar354/lab10-CS-
+# https://github.com/Cstar354/lab10-CS-CS
 # Partner 1: Camari
 # Partner 2: William
-# git clone https://github.com/Cstar354/lab10-CS-
+# git clone https://github.com/Cstar354/lab10-CS-CS
 # cd lab10-CS-
 # git add calculator.py
 # git commit -m "modified calculator p1"
